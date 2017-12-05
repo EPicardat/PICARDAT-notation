@@ -1,2 +1,6 @@
-# PICARDAT-notation
-Notation Intégration Continue  - POEI-EPSI-CGI
+# PICARDAT-Notation
+
+**Nom:** PICARDAT
+**Prenom:** EMMANUELLE
+
+
